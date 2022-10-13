@@ -1,0 +1,8 @@
+Buenas, me presento, soy Victor Mosqueda, recién graduado de DEV.F como desarrollador Junior Front-end
+actualmente manejo cosas como JS, HTML5, CSS, React, Vite, npm, Nodejs, Bootstrap, Sass
+y más cosas de la parte del front. 
+
+Este mismo año descubrí a Generation México, donde daban un Bootcamp de Fullstack. Decidí atreverme a expandir
+más mi conocimiento sobre programación y aquí estoy, creando un texto de prueba para que vean que si estudio jaja
+
+No sé que mas agregar, pero creo que esto es una buena introducción sobre mí.
